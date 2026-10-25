@@ -4,6 +4,7 @@
   <img src="assets/pixelart.gif" width="100%" style="border-radius: 8px; border: 1px solid #3a2c2c; box-shadow: 0 4px 8px rgba(0,0,0,0.3); background-color: #1a1515;" alt="Pixel Art Banner" />
 </p>
 
+
 <p align="center">
   <strong>Full-Stack Developer in Training</strong> · Mobile · Frontend · Backend · REST APIs · Databases
 </p>
