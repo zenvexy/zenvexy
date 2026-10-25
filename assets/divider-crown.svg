@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64" role="img" aria-label="Pixel-art crowned skull divider">
+  <style>.px{shape-rendering:crispEdges}.glint{animation:glint 4s steps(2,end) infinite}@keyframes glint{0%,80%,100%{opacity:.25}85%,90%{opacity:1}}@media(prefers-reduced-motion:reduce){.glint{animation:none}}</style>
+  <g fill="none" stroke-linecap="square">
+    <path d="M12 32H252M388 32H628" stroke="#18120c" stroke-width="5"/>
+    <path d="M12 32H252M388 32H628" stroke="#7b5a2d"/>
+    <path d="M32 27h60l8 5-8 5H32M608 27h-60l-8 5 8 5h60" stroke="#a67c3d"/>
+  </g>
+  <g class="px">
+    <path d="M252 32h18l10-10h18L320 5l22 17h18l10 10-10 10h-18L320 59l-22-17h-18l-10-10Z" fill="#100d0a" stroke="#594224"/>
+    <path d="m302 23 6-13 12 9 12-9 6 13-5 6h-26Z" fill="#b58a46"/>
+    <path d="M306 29h28v16l-7 8h-14l-7-8Z" fill="#d9cfb6"/>
+    <path d="M310 34h6v7h-6Zm14 0h6v7h-6Zm-6 8h4v4h-4Zm-8 5h6v5h-6Zm14 0h6v5h-6Z" fill="#18130e"/>
+    <path d="M300 25h40v5h-40Z" fill="#6f5028"/>
+    <path class="glint" d="M344 13h3v6h-3Zm-2 2h7v2h-7Z" fill="#f0c66d"/>
+    <path d="m267 26 6 6-6 6-6-6Zm106 0 6 6-6 6-6-6Z" fill="#9b7138"/>
+  </g>
+</svg>

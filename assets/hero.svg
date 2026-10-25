@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Enzo Toniato</title>
+  <desc id="desc">A developer's chronicle. Full-stack developer in training. Build, fail, learn, respawn. A golden sword rests in an animated bonfire, surrounded by an orbital seal.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14120e"/><stop offset=".55" stop-color="#0d0c0a"/><stop offset="1" stop-color="#1c160f"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#d7af62" stop-opacity=".15"/><stop offset=".65" stop-color="#d7af62" stop-opacity=".04"/><stop offset="1" stop-color="#d7af62" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="blade" x1="942" y1="158" x2="961" y2="309" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eee6d3"/><stop offset=".56" stop-color="#b7a889"/><stop offset="1" stop-color="#f08a4b"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="950" y1="252" x2="950" y2="335" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d7af62"/><stop offset=".55" stop-color="#f08a4b"/><stop offset="1" stop-color="#f08a4b" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#d7af62" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <style>
+      .mono { font-family: 'Courier New', monospace; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .orbit { transform-origin: 954px 222px; animation: orbit 100s linear infinite; }
+      .glow { animation: breathe 5s ease-in-out infinite; }
+      .ember { animation: rise 6s ease-in-out infinite; opacity: .6; }
+      .ember-b { animation-delay: -2s; animation-duration: 7s; }
+      .ember-c { animation-delay: -4s; animation-duration: 5s; }
+      .signal { animation: signal 3s ease-in-out infinite; }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @keyframes breathe { 0%,100% { opacity: .45; } 50% { opacity: .85; } }
+      @keyframes rise { 0% { transform: translate(0, 10px); opacity: 0; } 25% { opacity: .8; } 100% { transform: translate(12px, -70px); opacity: 0; } }
+      @keyframes signal { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .orbit,.glow,.ember,.signal { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="460" rx="12" fill="url(#background)"/>
+  <rect width="1200" height="460" rx="12" fill="url(#grid)"/>
+  <rect x="12.5" y="12.5" width="1175" height="435" rx="6" stroke="#30291e"/>
+  <path d="M12 46V12H46M1154 12H1188V46M12 414V448H46M1154 448H1188V414" stroke="#d7af62" stroke-opacity=".55"/>
+
+  <text x="66" y="61" class="mono" font-size="14" letter-spacing="3" fill="#b3a68e">THE DEVELOPER'S CHRONICLE</text>
+  <path d="M811 56H989" stroke="#30291e"/>
+  <path d="m805 52 4 4-4 4-4-4Z" fill="#d7af62"/>
+  <text x="1134" y="61" text-anchor="end" class="mono" font-size="13" letter-spacing="2" fill="#a39882">VOL. 001</text>
+  <path d="M66 85H1134" stroke="#30291e"/>
+
+  <text x="70" y="149" class="mono" font-size="18" letter-spacing="5" fill="#d7af62">ENZO TONIATO</text>
+  <text x="60" y="267" class="serif" font-size="76" letter-spacing="1" fill="#eee6d3">ENZOTONIATO</text>
+  <path d="M69 292H119" stroke="#d7af62" stroke-width="2"/>
+  <text x="138" y="298" class="mono" font-size="18" letter-spacing="1.5" fill="#c8bda6">BUILD. FAIL. LEARN. RESPAWN.</text>
+
+  <circle cx="75" cy="351" r="4" fill="#d7af62" class="signal"/>
+  <text x="92" y="356" class="mono" font-size="14" letter-spacing="1" fill="#a39882">FULL-STACK DEVELOPER IN TRAINING</text>
+
+  <circle cx="954" cy="222" r="181" fill="url(#aura)" class="glow"/>
+  <circle cx="954" cy="222" r="137" stroke="#d7af62" stroke-opacity=".18"/>
+  <circle cx="954" cy="222" r="126" stroke="#d7af62" stroke-opacity=".1"/>
+  <g class="orbit" stroke="#d7af62">
+    <circle cx="954" cy="222" r="147" stroke-opacity=".32" stroke-dasharray="1 12"/>
+    <path d="m954 71 5 8-5 8-5-8ZM1105 222l-8 5-8-5 8-5ZM954 373l-5-8 5-8 5 8ZM803 222l8-5 8 5-8 5Z" fill="#17130e" stroke-opacity=".65"/>
+    <path d="M851 119l7 7M1050 318l7 7M851 325l7-7M1050 126l7-7" stroke-opacity=".6"/>
+  </g>
+  <path d="M954 98V116M954 333V348M830 222H848M1060 222H1078" stroke="#d7af62" stroke-opacity=".35"/>
+  <path d="m883 295 71-160 71 160Z" stroke="#d7af62" stroke-opacity=".11"/>
+  <path d="M873 311H1035" stroke="#d7af62" stroke-opacity=".2"/>
+
+  <ellipse cx="954" cy="311" rx="39" ry="17" fill="#f08a4b" opacity=".35" filter="url(#soft-glow)" class="glow"/>
+  <path d="M932 327c-28-29 11-40 9-68 18 16 7 32 16 39 17-10 7-27 14-40 4 23 28 44 7 69" fill="url(#flame)" opacity=".7" class="glow"/>
+  <path d="M947 176h14l-2 116-5 22-5-22Z" fill="url(#blade)"/>
+  <path d="M954 180V299" stroke="#fff5da" stroke-opacity=".55"/>
+  <path d="M950 133h8v38h-8Z" fill="#665236" stroke="#d7af62"/>
+  <path d="m949 140 10 4m-10 4 10 4m-10 4 10 4m-10 4 10 4" stroke="#d7af62" stroke-opacity=".65"/>
+  <path d="m954 120 7 7-7 8-7-8Z" fill="#d7af62"/>
+  <path d="m925 171 29 4 29-4-4 9-25 1-25-1Z" fill="#d7af62"/>
+  <path d="m922 325 60-8m-54-2 53 14m-42 5 33-3" stroke="#a37c44" stroke-width="4" stroke-linecap="round"/>
+  <path d="m935 321 16-7 21 7" stroke="#f0b765" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#f0b765">
+    <circle cx="931" cy="279" r="2" class="ember"/>
+    <circle cx="976" cy="291" r="1.5" class="ember ember-b"/>
+    <circle cx="958" cy="267" r="2" class="ember ember-c"/>
+    <circle cx="921" cy="310" r="1.5" class="ember ember-c"/>
+    <circle cx="989" cy="318" r="1" class="ember"/>
+  </g>
+
+  <path d="M66 390H1134" stroke="#30291e"/>
+  <g class="mono" font-size="12" letter-spacing="2" fill="#a39882">
+    <text x="68" y="422"><tspan fill="#d7af62">01</tspan> / MOBILE</text>
+    <text x="261" y="422"><tspan fill="#d7af62">02</tspan> / FRONTEND</text>
+    <text x="480" y="422"><tspan fill="#d7af62">03</tspan> / BACKEND</text>
+    <text x="1134" y="422" text-anchor="end" fill="#d7af62">THE NEXT CHECKPOINT AWAITS</text>
+  </g>
+</svg>

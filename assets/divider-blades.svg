@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64" role="img" aria-label="Pixel-art crossed blades divider">
+  <style>.px{shape-rendering:crispEdges}.shine{animation:shine 5s steps(2,end) infinite}@keyframes shine{0%,88%,100%{opacity:.15}90%,94%{opacity:1}}@media(prefers-reduced-motion:reduce){.shine{animation:none}}</style>
+  <path d="M12 32H250M390 32H628" stroke="#18120c" stroke-width="5"/>
+  <path d="M12 32H250M390 32H628" stroke="#806033"/>
+  <path d="M42 27h178l8 5-8 5H42M598 27H420l-8 5 8 5h178" stroke="#4e3921"/>
+  <g class="px">
+    <path d="M264 10h16l40 40-8 8-40-40h-8Z" fill="#b8af9d"/>
+    <path d="M376 10h-16l-40 40 8 8 40-40h8Z" fill="#d9cfb8"/>
+    <path d="m264 10 16 2-8 6-8-2Zm112 0-16 2 8 6 8-2Z" fill="#eee5cf"/>
+    <path d="m285 39-12 12 6 6 12-12Zm70 0 12 12-6 6-12-12Z" fill="#6f4c25"/>
+    <path d="m278 35-8 8 17 17 8-8Zm84 0 8 8-17 17-8-8Z" fill="#b7843e"/>
+    <path d="M302 18h36l12 14-12 14h-36l-12-14Z" fill="#100d0a" stroke="#604823"/>
+    <path d="m320 20 12 12-12 12-12-12Z" fill="#7c1f22"/>
+    <path d="M316 28h8v8h-8Z" fill="#d5ae5e"/>
+    <path class="shine" d="M363 10h4v8h-4Zm-3 3h10v3h-10Z" fill="#fff1c8"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-label="Pixel-art sword and bonfire divider">
+  <style>.px{shape-rendering:crispEdges}.flame{transform-origin:320px 50px;animation:flicker 1.8s steps(2,end) infinite}.ember{animation:rise 3s steps(4,end) infinite}@keyframes flicker{0%,100%{transform:scaleX(1)}50%{transform:scaleX(.85)}}@keyframes rise{0%{transform:translateY(7px);opacity:0}40%{opacity:1}100%{transform:translateY(-16px);opacity:0}}@media(prefers-reduced-motion:reduce){.flame,.ember{animation:none}}</style>
+  <path d="M12 39H250M390 39H628" stroke="#18120c" stroke-width="5"/>
+  <path d="M12 39H250M390 39H628" stroke="#7e5929"/>
+  <path d="M30 34h180l10 5-10 5H30M610 34H430l-10 5 10 5h180" stroke="#4d351d"/>
+  <g class="px">
+    <path d="M276 39h15l9-9h40l9 9h15l8 8-8 8h-88l-8-8Z" fill="#100d0a" stroke="#5d4223"/>
+    <path d="M316 5h8v39h-8Z" fill="#d7cfbc"/>
+    <path d="M312 3h16v5h-16Zm-8 12h32v5h-32Z" fill="#b58843"/>
+    <path d="m320 0 5 5-5 5-5-5Z" fill="#e1b85f"/>
+    <g class="flame">
+      <path d="M298 58h44l-4-17-8 8-4-20-9 14-6-8-9 12Z" fill="#b53c25"/>
+      <path d="m309 58 22-1-4-13-7 7-3-10-7 10Z" fill="#ed8a38"/>
+      <path d="m315 58 10-1-5-10Z" fill="#ffd26c"/>
+    </g>
+    <path d="m292 60 56-6m-50-2 43 12" stroke="#76502a" stroke-width="4"/>
+    <rect class="ember" x="294" y="27" width="3" height="3" fill="#e69a45"/>
+    <rect class="ember" x="345" y="32" width="3" height="3" fill="#d26e32" style="animation-delay:-1.2s"/>
+    <path d="m260 35 4 4-4 4-4-4Zm120 0 4 4-4 4-4-4Z" fill="#a87938"/>
+  </g>
+</svg>

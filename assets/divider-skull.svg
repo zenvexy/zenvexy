@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="48" viewBox="0 0 640 48" role="img" aria-label="Pixel-art skull quest divider">
+  <style>.px{shape-rendering:crispEdges}</style>
+  <path d="M54 24H282M358 24H586" stroke="#18120c" stroke-width="5"/>
+  <path d="M54 24H282M358 24H586" stroke="#624621"/>
+  <path d="m74 20 4 4-4 4-4-4Zm492 0 4 4-4 4-4-4Zm-462 2h145v4H104Zm287 0h145v4H391Z" fill="#312216"/>
+  <g class="px">
+    <path d="M299 8h42l9 9v17l-8 7h-8v7h-9v-7h-10v7h-9v-7h-8l-8-7V17Z" fill="#0f0c09" stroke="#79572d"/>
+    <path d="M302 14h36l6 7v11l-7 6h-34l-7-6V21Z" fill="#c9bea5"/>
+    <path d="M302 20h10v9h-10Zm26 0h10v9h-10Zm-12 10h8v6h-8Zm-9 8h8v6h-8Zm18 0h8v6h-8Z" fill="#17110d"/>
+    <path d="m286 20 4 4-4 4-4-4Zm68 0 4 4-4 4-4-4Z" fill="#a97d3d"/>
+  </g>
+</svg>

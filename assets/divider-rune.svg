@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64" role="img" aria-label="Pixel-art arcane rune divider">
+  <style>.px{shape-rendering:crispEdges}.pulse{transform-origin:320px 32px;animation:pulse 3.5s steps(3,end) infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.85}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+  <path d="M12 32H266M374 32H628" stroke="#18120c" stroke-width="5"/>
+  <path d="M12 32H266M374 32H628" stroke="#77562c"/>
+  <path d="m30 27 5 5-5 5-5-5Zm580 0 5 5-5 5-5-5ZM84 29h142v6H84Zm330 0h142v6H414Z" fill="#17110b" stroke="#503b23"/>
+  <g class="px">
+    <path d="M286 16h10V8h48v8h10v8h8v16h-8v8h-10v8h-48v-8h-10v-8h-8V24h8Z" fill="#100d0b" stroke="#644824"/>
+    <path class="pulse" d="M320 11 345 32 320 53 295 32Z" fill="#8e6936" opacity=".45"/>
+    <path d="M320 17v30m-13-23 13 8 13-8m-26 16 13-8 13 8" stroke="#d0a657" stroke-width="4"/>
+    <path d="M316 28h8v8h-8Z" fill="#eee1bd"/>
+    <path d="m271 28 4 4-4 4-4-4Zm98 0 4 4-4 4-4-4Z" fill="#b88a45"/>
+  </g>
+</svg>

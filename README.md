@@ -1,96 +1,127 @@
-<h1 align="center">Welcome to my profile XD</h1>
-
 <p align="center">
-  <img src="assets/pixelart.gif" width="100%" style="border-radius: 8px; border: 1px solid #3a2c2c; box-shadow: 0 4px 8px rgba(0,0,0,0.3); background-color: #1a1515;" alt="Pixel Art Banner" />
-</p>
-
-
-<p align="center">
-  <strong>Full-Stack Developer in Training</strong> · Mobile · Frontend · Backend · REST APIs · Databases
+  <img src="assets/hero.svg" width="100%" alt="Enzo Toniato. Full-stack developer in training. Build. Fail. Learn. Respawn." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/EnzoToniato567?tab=followers"><img src="https://img.shields.io/github/followers/EnzoToniato567?style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/EnzoToniato567?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=social&logo=github" alt="GitHub Repositories"></a>
+  <a href="https://portfolio-enzotoniato.vercel.app/"><strong>PORTFOLIO ↗</strong></a>
+  &nbsp;/&nbsp;
+  <a href="#03--selected-quests">PROJECTS</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/zenvexy?tab=repositories">REPOSITORIES</a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/zenvexy?tab=overview">ACTIVITY</a>
 </p>
 
----
-
-## About me
-
-I am a **Systems Development** student building a solid foundation in mobile, frontend, backend and database development.
-
-I enjoy creating personal and intuitive projects that solve real problems. My goal is to help, develop and stand out in the programming field through continuous evolution in every project.
-
-**My commitments:**
-
-- Code organization and readability
-- Responsive and intuitive interfaces
-- REST APIs and relational database modeling
-- Continuous learning through practical projects
-
----
-
-## Tech Stack
-
-### Languages and frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=gitforwindows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
----
-
-## Portfolio 
-
-### [My Portfolio](https://github.com/EnzoToniato567/Portifolio-EnzoToniato567)
-
-Personal portfolio with theme selection, Portuguese/English translation and a project archive.
-
-**Technologies:** HTML · CSS · JavaScript · i18next · Vercel
-
----
-
-## GitHub Dashboard
+<h3 align="center">Learning the systems. Building the experience.</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EnzoToniato567&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub statistics">
-  <img height="170" src="https://streak-stats.demolab.com?user=EnzoToniato567&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  I'm <strong>Enzo Toniato</strong>, a Systems Development student exploring<br />
+  the space between <strong>mobile apps</strong>, <strong>web interfaces</strong> and <strong>the APIs behind them</strong>.
+</p>
+
+<p align="center"><img src="assets/divider-crown.svg" width="100%" alt="" /></p>
+
+## 01 / Character sheet
+
+I learn by making things: a personal portfolio, a collaborative pixel-art fighting game, a recipe app connected to its own API. Each project is another chance to understand how the pieces fit together — from the first screen to the database.
+
+```text
+class       →  Full-stack developer in training
+main quest  →  Turn real problems into useful, intuitive software
+playstyle   →  Build something. Understand it. Make it better.
+passive     →  Keep showing up.
+```
+
+<details>
+<summary><strong>Ler em português 🇧🇷</strong></summary>
+
+Sou o **Enzo Toniato**, estudante de **Desenvolvimento de Sistemas**. Estou construindo minha base em desenvolvimento mobile, frontend, backend e bancos de dados.
+
+Gosto de aprender colocando a mão no código: criar uma interface, conectar uma API, entender um erro e voltar com uma solução melhor. Meu foco é desenvolver projetos úteis, com organização, clareza e uma experiência que faça sentido para quem usa.
+
+**A missão:** transformar estudo em prática e prática em evolução, um commit de cada vez.
+
+</details>
+
+<p align="center"><img src="assets/divider-rune.svg" width="100%" alt="" /></p>
+
+## 02 / Skill tree
+
+The tools I've learned and put to work, presented as a pixel-art loadout.
+
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Pixel-art technology loadout: Flutter, Dart, HTML5, CSS3, JavaScript, C, Node.js, MySQL, Prisma, Firebase, Supabase, XAMPP, Git Bash, GitHub, VS Code, Insomnia, Vite, Draw.io, Python and React Native." />
+</p>
+
+<details>
+<summary><strong>Open the inventory — tools &amp; fundamentals</strong></summary>
+
+| Slot | Equipment |
+| :--- | :--- |
+| Languages | JavaScript · Dart · C · Python |
+| Mobile | Flutter · React Native |
+| Frontend | HTML5 · CSS3 · Vite |
+| Backend & data | Node.js · Prisma · MySQL · Firebase · Supabase |
+| Workbench | Git · GitHub · Git Bash · VS Code · Insomnia · XAMPP · Draw.io |
+
+</details>
+
+<p align="center"><img src="assets/divider-blades.svg" width="100%" alt="" /></p>
+
+## 03 / Selected quests
+
+### I. The portfolio
+
+**A home for the things I build.** A responsive portfolio with theme selection, Portuguese/English translation and a project archive.
+
+`HTML` `CSS` `JavaScript` `i18next`
+
+[Explore the portfolio ↗](https://portfolio-enzotoniato.vercel.app/) · [Read the code](https://github.com/zenvexy/Portifolio-EnzoToniato567)
+
+<p align="center"><img src="assets/divider-skull.svg" width="72%" alt="" /></p>
+
+### II. Galactic Duel
+
+**A different kind of merge conflict.** A collaborative Star Wars fan game with 1v1 pixel-art battles, animated fighters and multiple arenas. Built with a team.
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+[Enter the arena ↗](https://starwars-galactic-duel.vercel.app/) · [Read the code & meet the team](https://github.com/zenvexy/StarWars-Galactic-Duel)
+
+<p align="center"><img src="assets/divider-skull.svg" width="72%" alt="" /></p>
+
+### III. Livro de Receitas
+
+**From the screen to the API.** A Flutter recipe app with search, recipe management and light/dark themes, connected to its own backend.
+
+`Flutter` `Dart` `REST API`
+
+[Explore the app ↗](https://github.com/zenvexy/Flutter-API-Receitas) · [Follow the backend](https://github.com/zenvexy/Backend-Receitas-Flutter)
+
+[**See the whole quest log →**](https://github.com/zenvexy?tab=repositories)
+
+<p align="center"><img src="assets/divider-bonfire.svg" width="100%" alt="" /></p>
+
+## 04 / Next checkpoints
+
+- [ ] Go deeper into Node.js and scalable API development.
+- [ ] Give projects documentation that makes them easier to understand and run.
+- [ ] Strengthen testing habits and code quality.
+- [ ] Learn more about architecture and design patterns.
+- [ ] Build and contribute consistently with other developers.
+
+<p align="center">
+  <img src="assets/pixelart.gif" width="100%" alt="Animated pixel-art bonfire with a sword, resting beneath a ruined castle in a dark mountain landscape." />
+</p>
+
+<p align="center"><em>Take a breath. Save your progress. There's more to build.</em></p>
+
+<p align="center">
+  <img src="assets/bonfire-footer.svg" width="100%" alt="Every commit is a new checkpoint. Rest at the bonfire. Then build again." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoToniato567&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
----
-
-## 2026 Goals
-
-- [ ] Deepen Node.js knowledge and scalable API development
-- [ ] Publish projects with complete professional documentation
-- [ ] Strengthen testing and code quality standards
-- [ ] Contribute collaboratively and consistently on GitHub
-- [ ] Improve system architecture and design patterns knowledge
-
----
-
-> *"Building consistency every day: study, practice, and evolution in every commit."*
-
-<p align="center">
-  Developed with &lt;3 · © 2026
+  <a href="https://github.com/zenvexy"><strong>@zenvexy</strong></a>
+  · Enzo Toniato
+  · <em>Still learning. Still building.</em>
 </p>
